@@ -79,4 +79,8 @@ button:hover {
   .main {
     width: 250px;
   }
+
+  .front p {
+    font-size: 12px;
+  }
 }
